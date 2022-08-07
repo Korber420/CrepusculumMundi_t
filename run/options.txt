@@ -139,6 +139,7 @@ key_key.jei.closeRecipeGui:key.keyboard.escape
 key_key.jei.copy.recipe.id:key.keyboard.unknown
 key_key.toggleLiquids:key.keyboard.unknown
 key_key.toggleVisible:key.keyboard.unknown
+key_key.crepusculummundi.drinking_key:key.keyboard.f
 soundCategory_master:1.0
 soundCategory_music:1.0
 soundCategory_record:1.0
